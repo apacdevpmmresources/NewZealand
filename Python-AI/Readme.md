@@ -13,10 +13,9 @@ This repo contains how to run image classification example using Microsoft cogni
 
 2. Clone a repo using below command on your disk
 
-```
-git clone https://github.com/rawatsudhir1/Python-AI.git
-
-```
+  ```
+  git clone https://github.com/apacdevpmmresources/NewZealand.git
+  ```
 
 3. Open [Custom Vision](https://www.customvision.ai/) in a browser
  ![SignIn](/Python-AI/HandsOnImages/0.png)
