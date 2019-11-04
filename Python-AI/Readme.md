@@ -34,7 +34,7 @@ This repo contains how to run image classification example using Microsoft cogni
 7. On **Resource** drop down menu, if no value is there then click **create new**
 
 8. On **Create New Resource** provide Name, Subscription, Resource Group (create new resource group if you want), Kind, Location, Pricing Tier
-![CreateNewResource](/Python-AI/HandsOnImages/3.png)
+![CreateNewResource](/Python-AI/HandsOnImages/3-0.png)
 
 9.  For creating a new Resource Group (click new for Resource Group as mentioned above), provide Name and Location 
 ![CreateNewResourceGroup](/Python-AI/HandsOnImages/3-1.png)
