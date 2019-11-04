@@ -19,14 +19,14 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 ```
 
 3. Open [Custom Vision](https://www.customvision.ai/) in a browser
- ![SignIn](/HandsOnImages/0.png)
+ ![SignIn](/Python-AI/HandsOnImages/0.png)
 
 
 4. Sign in with the account you used for seeting up Azure Subscription
 
 
 5. Click **NEW PROJECT**
-![NewProject](Python-AI/HandsOnImages/1.png)
+![NewProject](/Python-AI/HandsOnImages/1.png)
 
 6. On the screen **Ceate new project** provide Name, Description (optional) 
 ![CreateNewProject](/HandsOnImages/2.png)
