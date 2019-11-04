@@ -26,7 +26,7 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 
 
 5. Click **NEW PROJECT**
-![NewProject](/HandsOnImages/1.png)
+![NewProject](Python-AI/HandsOnImages/1.png)
 
 6. On the screen **Ceate new project** provide Name, Description (optional) 
 ![CreateNewProject](/HandsOnImages/2.png)
