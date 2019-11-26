@@ -7,7 +7,7 @@
   1. Please click [here](https://github.com/apacdevpmmresources/NewZealand/tree/master/Python-AI)
   
 
-## Hands on Session  details 
+## Hands on Session 
 
   1. **Quickly build comprehensive Bot solutions with the Virtual Assistant Solution Accelerator.** Please click [here](http://bit.ly/33dCHau)  to access the lab. Please speak to instructor for activation code. Step by step  instruction available [here](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/ai-exp1/README.md)
   
