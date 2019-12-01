@@ -7,6 +7,8 @@
   1. Custom Vision :- Please click [here](https://github.com/apacdevpmmresources/NewZealand/tree/master/Python-AI)
   2. QandA bot :- Please click [here](https://www.qnamaker.ai/). Sample file link is [here](https://download.microsoft.com/download/2/9/B/29B20383-302C-4517-A006-B0186F04BE28/surface-pro-4-user-guide-EN.pdf)
   
+## AI on Edge
+  1. Please click [here](https://aka.ms/aidemo1)
 
 ## Hands on Session 
 
@@ -16,6 +18,7 @@
      to access the lab. Please speak to instructor for activation code. Step by step  instruction available [here](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/ai-exp2/README.md)
      
   3. **Automated Machine Learning**
+    3.1 Please click [here](https://aka.ms/aids) for sample data
   
   4. **Creating repeatable processes with Azure Machine Learning pipelines.** Please click [here](http://bit.ly/2DrQDDl).
      to access the lab. Please speak to instructor for activation code. Step by step  instruction available [here](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/ai-exp4/README.md)
