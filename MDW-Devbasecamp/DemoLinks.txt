@@ -4,15 +4,21 @@ Installation:-
 
 Demo 1
 	Setup:- https://github.com/microsoft/ignite-learning-paths-training-data/blob/master/data10/deployment/README.md
+
 Demo 2
 	Ingesting Data with Azure Data Factory:- https://github.com/microsoft/ignite-learning-paths-training-data/blob/master/data20/demos/README.md#demo-1--ingesting-data-with=datafactory 
+
 Demo 3 
 	Transforming your Data in Azure Data Factory :- https://github.com/microsoft/ignite-learning-paths-training-data/blob/master/data30/demos/README.md#demo-1---transforming-your-data-in-azure-data-factory
+
 Demo 4
 	Azure DataBricks to Azure Synapse Analytics :- https://github.com/rawatsudhir1/ADBNotebook
+
 Demo 5
 	Build DWH :- https://github.com/rawatsudhir1/AdsScripts
 
 Demo 6
 	PowerBI
+
+Slide-Deks :- https://github.com/apacdevpmmresources/NewZealand/tree/master/MDW-Devbasecamp (Session_Slides_Part_A.zip, Session_Slides_Part_B.zip, Session_Slides_Part_C.zip)
 
