@@ -20,5 +20,5 @@ Demo 5
 Demo 6
 	PowerBI :- https://docs.microsoft.com/en-us/power-bi/service-azure-sql-data-warehouse-with-direct-connect
 
-Slide-Deks :- https://github.com/apacdevpmmresources/NewZealand/tree/master/MDW-Devbasecamp (Session_Slides_Part_A.zip, Session_Slides_Part_B.zip, Session_Slides_Part_C.zip)
+Slide-Decks :- Look out for Session_Slides_Part_A.zip, Session_Slides_Part_B.zip and Session_Slides_Part_C.zip at  https://github.com/apacdevpmmresources/NewZealand/tree/master/MDW-Devbasecamp 
 
