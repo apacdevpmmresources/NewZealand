@@ -22,4 +22,6 @@ Demo 6
 
 Slide-Decks :- Look out for Session_Slides_Part_A.zip, Session_Slides_Part_B.zip and Session_Slides_Part_C.zip at  https://github.com/apacdevpmmresources/NewZealand/tree/master/MDW-Devbasecamp 
 
+Azure Synapse Analytics (Data Warehouse) Performance Benchmark :- https://aka.ms/DWHPefrBenchmark 
+
 Azure Data Architecture Guide :- https://aka.ms/adag
